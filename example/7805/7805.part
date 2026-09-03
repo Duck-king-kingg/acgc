@@ -1,0 +1,12 @@
+//定义器件
+
+.part 7805
+pin 1 :  in
+pin 2 :  out
+pin 3 :  gnd
+// 每个器件中必须首先定义pin
+prefix  : U
+// 为必须字段，位号前缀
+footprint : TO-252-2
+//footprint 为必须字段，对应PCB封装
+end
