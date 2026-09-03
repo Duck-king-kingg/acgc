@@ -1,0 +1,8 @@
+//顶层设计
+
+desgin example1
+    module 7805_module : P1
+    part R[0805E,10k] : R1
+    P1.out ~ R1.1
+    R1.2 ~ GND
+end

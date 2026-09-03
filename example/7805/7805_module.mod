@@ -1,4 +1,4 @@
-import 7805
+//定义7805稳压器模块module
 
 .module 7805_module
     port : input power in

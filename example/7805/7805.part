@@ -9,4 +9,10 @@ prefix  : U
 // 为必须字段，位号前缀
 footprint : TO-252-2
 //footprint 为必须字段，对应PCB封装
+
+partnumber : CJ7805
+//partnumber 为可选字段，制造商型号
+manufacturer : CJ(江苏长电/长晶)
+//manufacturer为可选字段，制造商名
+
 end
