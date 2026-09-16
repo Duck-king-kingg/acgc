@@ -1,0 +1,8 @@
+//顶层设计
+
+desgin example
+    part R[0805E,10k] : R1
+    part R[0805E,0] : R2
+    R1.1 ~ R2.2
+    R1.2 ~ R2.1
+end
